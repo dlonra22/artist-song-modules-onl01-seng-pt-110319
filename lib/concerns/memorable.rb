@@ -1,2 +1,3 @@
 module Memorable
+  Class
 end
